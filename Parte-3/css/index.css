@@ -189,3 +189,12 @@ label{
     display: block;
     margin: 15px;
 }
+.seccionComments h3 {
+    color: green;
+    text-align: left;
+}
+
+.seccionComments p {
+    color: black;
+    text-align: left;
+}
